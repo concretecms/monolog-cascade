@@ -18,7 +18,7 @@
     "homepage": "https://github.com/theorchard/monolog-cascade",
     "require": {
         "php": ">7.3",
-        "symfony/config": "^2.7 || ^3.0 || ^4.0 || ^5.0 || ^6 || ^7",
+        "symfony/config": "^2.7 || ^3.0 || ^4.0 || ^5.0",
         "symfony/options-resolver": "^2.7 || ^3.0 || ^4.0 || ^5.0 || ^6 || ^7",
         "symfony/serializer": "^2.7 || ^3.0 || ^4.0 || ^5.0 || ^6 || ^7",
         "symfony/yaml": "^3.0 || ^4.0 || ^5.0 || ^6 || ^7",
